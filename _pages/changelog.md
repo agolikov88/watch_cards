@@ -10,8 +10,7 @@ include_in_header: true
 This version introduces Apple Intelligence integration for creating endless custom backgrounds for your Watch Cards! Please note this feature is supported on iPhone 15 Pro and newer devices with iOS 18.2 and up.
 
 #### What's New
-- Minor tweaks
-- Subscriptions and in-app purchases updates
+- Apple Intelligence integration: added support for Image Playground
 
 <br>
 
