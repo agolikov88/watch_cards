@@ -6,6 +6,15 @@ include_in_header: true
 
 # Changelog
 ### `Latest`
+# **Version 1.7**
+This version introduces Apple Intelligence integration for creating endless custom backgrounds for your Watch Cards! Please note this feature is supported on iPhone 15 Pro and newer devices with iOS 18.2 and up.
+
+#### What's New
+- Minor tweaks
+- Subscriptions and in-app purchases updates
+
+<br>
+
 # **Version 1.6**
 This version includes some minor tweaks and updates to in-app subscription model: now everyone can choose the best way to unlock all app's features by either purchasing a lifetime access to everything the app has to offer or by getting monthly or yearly subscription.
 
