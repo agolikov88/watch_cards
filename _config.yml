@@ -53,11 +53,11 @@ features                                  :
     fontawesome_icon_name                 : toolbox
 
   - title                                 : Up to 24 Watch Cards per Watch Face
-    description                           : With full version of the app you can add up to 24 separately customizable watch cards to each watch face.
+    description                           : You can add up to 24 separately customizable watch cards to each watch face.
     fontawesome_icon_name                 : layer-group
 
   - title                                 : Custom Watch Cards Backgrounds
-    description                           : With full version of the app you can add custom backgrounds to your watch cards beyond what’s offered in the app by importing images from your photo library.
+    description                           : You can add custom backgrounds to your watch cards beyond what’s offered in the app by importing images from your photo library.
     fontawesome_icon_name                 : adjust
 
   - title                                 : # New Feature Title
